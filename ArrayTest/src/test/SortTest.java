@@ -11,7 +11,7 @@ public class SortTest {
 	}
 	
 	private static void sort(int[] nums, int orderby){
-			//ì´ë¶€ë¶„ì„ ì§ì ‘ êµ¬í˜„
+			//±ê ¼ÒÆ® Å×½ºÆ®
 		}//sort()
 
 	} 
